@@ -1,1 +1,7 @@
 # RusskiyRepetitor
+
+Welcome to RusskiyRepetitor, your intelligent guide to mastering the Russian language! Leveraging advanced AI technologies, RusskiyRepetitor provides an immersive and interactive experience that customizes language learning to your individual needs. Whether you're a beginner taking your first steps into Russian, or an advanced learner looking to refine your skills, RusskiyRepetitor is designed to assist you on your journey. Our goal is to make Russian language learning more accessible, effective, and enjoyable, because we believe that languages are the keys to connecting worlds and enriching personal growth. Join us in exploring the Russian language and culture, one word at a time!
+
+"RusskiyRepetitor" is a combination of two words: "Russkiy", which means "Russian" in the Russian language, and "Repetitor", a word used in many Slavic languages, including Russian, to mean "tutor" or "private teacher". The name reflects the tool's primary function as a guide to learning the Russian language.
+
+The inspiration for this name is rooted in our aim to provide an AI tool that can act as a private tutor, making Russian language learning more accessible and personalized for each user. Just like a human tutor would adapt their teaching strategies to their student's needs, RusskiyRepetitor is designed to understand and adapt to each learner's individual language learning style and pace. The name symbolizes our commitment to making language learning an engaging and beneficial experience, right from your digital device.
