@@ -14,7 +14,7 @@ While our current focus is on the Russian language, we intend to thoughtfully ex
 ## How to Use RusskiyRepetitor
 Detailed instructions on how to use the application to come.
 
-# Contributing to RusskiyRepetitor
+## Contributing to RusskiyRepetitor
 Information about how to contribute to come.
 
 # Feedback
